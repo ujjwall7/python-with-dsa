@@ -1,1 +1,3 @@
 ctrl + shift + p => work space settings => settings.json
+
+#hello megha
